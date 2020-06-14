@@ -249,7 +249,7 @@ a:hover, a:focus, a:active {
 /*Studio*/
 #studio {
   padding: 5rem 0;
-  background-image: url("../img/bg-callout.jpg");
+  background-image: url(../img/bg-callout.JPG);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -412,7 +412,7 @@ a:hover, a:focus, a:active {
 
 /* Logo */
 #clients {
-  background-image: url("../img/bg-logo2.jpg");
+  background-image: url(../img/bg-logo2.JPG);
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
