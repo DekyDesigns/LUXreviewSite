@@ -169,7 +169,7 @@ a:hover, a:focus, a:active {
 .masthead {
   height: 100vh;
   background-image: url(../img/bg-masthead.jpg);
-  background-attachment: fixed;
+  background-attachment: scroll;
   min-height: 30rem;
   position: relative;
   width: 100%;
@@ -179,6 +179,7 @@ a:hover, a:focus, a:active {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .masthead h1 {
   -webkit-animation: fadeIn;
@@ -250,7 +251,7 @@ a:hover, a:focus, a:active {
 #studio {
   padding: 5rem 0;
   background-image: url(../img/bg-callout.jpg);
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -413,7 +414,7 @@ a:hover, a:focus, a:active {
 /* Logo */
 #clients {
   background-image: url(../img/bg-logo2.jpg);
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
